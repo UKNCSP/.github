@@ -1,5 +1,4 @@
-# .github
-UK National Climate Science Partnership
+# UK National Climate Science Partnership
 
 This is a repository of documents and code for the UK National Climate Science Partnership (UKNCSP), specifically for work on the CMIP7 project.
 
